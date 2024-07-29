@@ -1,0 +1,9 @@
+.custom-img {
+    width: 250px; /* Define el ancho deseado */
+    height: 300px; /* Define la altura deseada */
+    object-fit: cover; /* Controla cómo se ajusta la imagen al contenedor */
+}
+/* Agrega estas reglas CSS en tu archivo de estilos CSS */
+.navbar a {
+    font-size: 20px; /* Elige el tamaño de fuente deseado */
+}
